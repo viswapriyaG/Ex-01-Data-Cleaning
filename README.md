@@ -25,7 +25,7 @@ Save the Clean data to the file
 
 # CODE
 
-Program developed by: VISWAPRIYA G
+Program developed by: VISWA PRIYA G
 
 Register number: 212221220061
 ```
